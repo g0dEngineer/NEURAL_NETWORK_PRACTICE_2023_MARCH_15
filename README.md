@@ -15,7 +15,7 @@ Simple artificial neural network written from memory/scratch by God in java.
   
   Why?: This is practice writing of basic neural network from memory. ([I do this at the end of each year, or sometimes every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), for practice of fundamentals.)
   
-  Date: March 15, 2023. (1.6 hours used)
+  Date: March 15, 2023. (2 hours used)
   
   The problem space is [X-OR inputs](https://en.wikipedia.org/wiki/XOR_gate). So the model does xor input prediction.
   
